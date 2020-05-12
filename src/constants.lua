@@ -1,0 +1,35 @@
+-- Window constants
+WINDOW_WIDTH = 1280
+WINDOW_HEIGHT = 720
+
+VIRTUAL_WIDTH = 256
+VIRTUAL_HEIGHT = 144
+
+TILE_WIDTH = 16
+TILE_HEIGHT = 16
+
+PLAYER_WIDTH = 16
+PLAYER_HEIGHT = 20
+
+SCROLL_X = 50
+SCROLL_Y = 100
+
+MOVE_SPEED_X = 6
+MOVE_SPEED_Y = 60
+
+TILE_GROUP_WIDTH = 5
+TILE_GROUP_HEIGHT = 4
+
+BLANK = 5
+GROUND = 3
+
+COLLISION = {
+  3
+}
+
+-- Graphics keys
+BACKGROUNDS = 'backgrounds'
+TILES = 'tiles'
+TILE_GROUPS = 'tile-groups'
+TILE_TOPS = 'tile-tops'
+CHARACTER = 'character'
